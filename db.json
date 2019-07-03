@@ -23,7 +23,7 @@
   },
   "points_table": [
     {
-      "name": "Los Pitufos",
+      "name": "Los Cocos",
       "played_games": 2,
       "points": 6
     },
@@ -38,7 +38,7 @@
       "points": 0
     }
   ],
-  "match_hisory": [
+  "match_history": [
     {
       "id": 1,
       "date": "2019-12-12",
@@ -51,10 +51,45 @@
       },
       "local": {
         "id": 2,
-        "name": "Los Conejos",
+        "name": "Los Canayas",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
         "score": 0
       }
+    },
+    {
+      "id": 2,
+      "date": "2019-12-12",
+      "time": "18:00",
+      "away": {
+        "id": 2,
+        "name": "Los Canayas",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "score": 2
+      },
+      "local": {
+        "id": 3,
+        "name": "Los Endebles",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "score": 3
+      }
     }
-  ]
+  ],
+  "match": {
+    "id": 1,
+    "date": "2019-12-12",
+    "time": "18:00",
+    "field": "Estadio Revolución",
+    "played": false,
+    "address": "Av. Siempre Viva",
+    "away": {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+    },
+    "local": {
+      "id": 2,
+      "name": "Los Conejos",
+      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+    }
+  }
 }
