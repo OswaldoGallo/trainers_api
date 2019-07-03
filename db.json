@@ -21,18 +21,21 @@
       }
     ]
   },
-  "points_table": [
+  "positions_table": [
     {
+      "id": 1,
       "name": "Los Cocos",
       "played_games": 2,
       "points": 6
     },
     {
+      "id": 2,
       "name": "Los Canayas",
       "played_games": 2,
       "points": 3
     },
     {
+      "id": 3,
       "name": "Los Endebles",
       "played_games": 2,
       "points": 0
