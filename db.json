@@ -79,8 +79,8 @@
     "date": "2019-12-12",
     "time": "18:00",
     "field": "Estadio Revolución",
+    "field_address": "Av. Siempre Viva",
     "played": false,
-    "address": "Av. Siempre Viva",
     "away": {
       "id": 1,
       "name": "Los Cocos",
