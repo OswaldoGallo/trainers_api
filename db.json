@@ -1,0 +1,60 @@
+{
+  "profile": {
+    "id": 1,
+    "email": "oswaldo.gallor@gmail.com",
+    "image": "https://lakewangaryschool.sa.edu.au/wp-content/uploads/2017/11/placeholder-profile-sq.jpg",
+    "name": "Oswaldo",
+    "last_name": "Gallo",
+    "second_last_name": "Romero",
+    "teams": [
+      {
+        "id": 1,
+        "name": "Los Cocos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "category": "Varonil"
+      },
+      {
+        "id": 2,
+        "name": "Los Canayas",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "category": "Varonil"
+      }
+    ]
+  },
+  "points_table": [
+    {
+      "name": "Los Pitufos",
+      "played_games": 2,
+      "points": 6
+    },
+    {
+      "name": "Los Canayas",
+      "played_games": 2,
+      "points": 3
+    },
+    {
+      "name": "Los Endebles",
+      "played_games": 2,
+      "points": 0
+    }
+  ],
+  "match_hisory": [
+    {
+      "id": 1,
+      "date": "2019-12-12",
+      "time": "18:00",
+      "away": {
+        "id": 1,
+        "name": "Los Cocos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
+        "score": 2
+      },
+      "local": {
+        "id": 2,
+        "name": "Los Conejos",
+        "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+        "score": 
+      }
+    }
+  ]
+}
