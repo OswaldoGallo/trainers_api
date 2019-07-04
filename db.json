@@ -46,6 +46,7 @@
       "id": 1,
       "date": "2019-12-12",
       "time": "18:00",
+      "played": true,
       "away": {
         "id": 1,
         "name": "Los Cocos",
@@ -63,6 +64,7 @@
       "id": 2,
       "date": "2019-12-12",
       "time": "18:00",
+      "played": true,
       "away": {
         "id": 2,
         "name": "Los Canayas",
