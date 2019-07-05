@@ -11,13 +11,13 @@
         "id": 1,
         "name": "Los Cocos",
         "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
-        "category": "Varonil"
+        "gender": "Varonil"
       },
       {
         "id": 2,
         "name": "Los Canayas",
         "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
-        "category": "Varonil"
+        "gender": "Varonil"
       }
     ]
   },
@@ -106,5 +106,87 @@
       "name": "Los Conejos",
       "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png"
     }
-  }
+  },
+  "rounds": [
+    {
+      "number": "1",
+      "date": "2019-12-12",
+      "matches": [
+        {
+          "id": 1,
+          "played": false,
+          "date": "2019-12-12",
+          "time": "18:00",
+          "has_agreement": true,
+          "away": {
+            "id": 1,
+            "name": "Los Cocos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          },
+          "local": {
+            "id": 2,
+            "name": "Los Conejos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          }
+        },
+        {
+          "id": 2,
+          "played": false,
+          "date": "2019-12-12",
+          "time": "13:00",
+          "has_agreement": true,
+          "away": {
+            "id": 3,
+            "name": "Los Archilopitecus",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          },
+          "local": {
+            "id": 4,
+            "name": "Los Veganos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          }
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "date": "2019-12-13",
+      "matches": [
+        {
+          "id": 1,
+          "played": false,
+          "date": "2019-12-13",
+          "time": "18:00",
+          "has_agreement": true,
+          "away": {
+            "id": 1,
+            "name": "Los Cocos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          },
+          "local": {
+            "id": 2,
+            "name": "Los Conejos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          }
+        },
+        {
+          "id": 2,
+          "played": false,
+          "date": "2019-12-13",
+          "time": "13:00",
+          "has_agreement": true,
+          "away": {
+            "id": 3,
+            "name": "Los Archilopitecus",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          },
+          "local": {
+            "id": 4,
+            "name": "Los Veganos",
+            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+          }
+        }
+      ]
+    }
+  ]
 }
