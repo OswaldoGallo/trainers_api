@@ -160,12 +160,12 @@
           "has_agreement": true,
           "away": {
             "id": 1,
-            "name": "Los Cocos",
+            "name": "Los Endebles",
             "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
           },
           "local": {
             "id": 2,
-            "name": "Los Conejos",
+            "name": "Los Amarillistas",
             "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
           }
         },
@@ -177,12 +177,12 @@
           "has_agreement": true,
           "away": {
             "id": 3,
-            "name": "Los Archilopitecus",
+            "name": "Los Canayas",
             "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
           },
           "local": {
             "id": 4,
-            "name": "Los Veganos",
+            "name": "Los Emblemáticos",
             "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
           }
         }
