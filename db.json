@@ -89,24 +89,6 @@
       }
     }
   ],
-  "match": {
-    "id": 1,
-    "date": "2019-12-12",
-    "time": "18:00",
-    "field": "Estadio Revolución",
-    "field_address": "Av. Siempre Viva",
-    "played": false,
-    "away": {
-      "id": 1,
-      "name": "Los Cocos",
-      "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32"
-    },
-    "local": {
-      "id": 2,
-      "name": "Los Conejos",
-      "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png"
-    }
-  },
   "rounds": [
     {
       "number": "Jornada 1",
@@ -188,5 +170,77 @@
         }
       ]
     }
-  ]
+  ],
+  "match": {
+    "id": 1,
+    "date": "2019-12-12",
+    "time": "18:00",
+    "field": "Estadio Revolución",
+    "field_address": "Av. Siempre Viva",
+    "played": true,
+    "away": {
+      "id": 1,
+      "name": "Los Cocos",
+      "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
+      "players": [
+        {
+          "id": 1,
+          "name": "Juan",
+          "last_name": "Cebolla",
+          "position": "Delantero",
+          "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 2,
+          "name": "Pedro",
+          "last_name": "Zanahoria",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        }
+      ],
+      "trainer": {
+        "id": 1,
+        "name": "Oswaldo",
+        "last_name": "Gallo",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+        "is_present": true
+      }
+    },
+    "local": {
+      "id": 2,
+      "name": "Los Conejos",
+      "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
+      "players": [
+        {
+          "id": 3,
+          "name": "Daniel",
+          "last_name": "Cilantro",
+          "position": "Delantero",
+          "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        }
+      ],
+      "trainer": {
+        "id": 2,
+        "name": "Enrique",
+        "last_name": "Vaca",
+        "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+        "is_present": true
+      }
+    }
+  }
 }
