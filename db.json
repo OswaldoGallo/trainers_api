@@ -182,6 +182,7 @@
       "id": 1,
       "name": "Los Cocos",
       "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
+      "score": "3",
       "players": [
         {
           "id": 1,
@@ -214,6 +215,7 @@
       "id": 2,
       "name": "Los Conejos",
       "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
+      "score": "5",
       "players": [
         {
           "id": 3,
