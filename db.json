@@ -89,84 +89,60 @@
       }
     }
   ],
-  "rounds": [
+  "categories": [
     {
-      "number": "Jornada 1",
-      "date": "2019-12-12",
-      "matches": [
+      "name": "2001",
+      "rounds": [
         {
-          "id": 1,
-          "played": false,
+          "number": "Jornada 1",
           "date": "2019-12-12",
-          "time": "18:00",
-          "has_agreement": true,
-          "away": {
-            "id": 1,
-            "name": "Los Cocos",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          },
-          "local": {
-            "id": 2,
-            "name": "Los Conejos",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          }
-        },
-        {
-          "id": 2,
-          "played": false,
-          "date": "2019-12-12",
-          "time": "13:00",
-          "has_agreement": true,
-          "away": {
-            "id": 3,
-            "name": "Los Archilopitecus",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          },
-          "local": {
-            "id": 4,
-            "name": "Los Veganos",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          }
+          "matches": [
+            {
+              "id": 1,
+              "played": false,
+              "date": "2019-12-12",
+              "time": "18:00",
+              "has_agreement": true,
+              "away": {
+                "id": 1,
+                "name": "Los Cocos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              },
+              "local": {
+                "id": 2,
+                "name": "Los Conejos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              }
+            }
+          ]
         }
       ]
     },
     {
-      "number": "Jornada 2",
-      "date": "2019-12-13",
-      "matches": [
+      "name": "2003",
+      "rounds": [
         {
-          "id": 1,
-          "played": false,
-          "date": "2019-12-13",
-          "time": "18:00",
-          "has_agreement": false,
-          "away": {
-            "id": 1,
-            "name": "Los Endebles",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          },
-          "local": {
-            "id": 2,
-            "name": "Los Amarillistas",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          }
-        },
-        {
-          "id": 2,
-          "played": false,
-          "date": "2019-12-13",
-          "time": "13:00",
-          "has_agreement": true,
-          "away": {
-            "id": 3,
-            "name": "Los Canayas",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          },
-          "local": {
-            "id": 4,
-            "name": "Los Emblemáticos",
-            "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-          }
+          "number": "Jornada 1",
+          "date": "2019-12-12",
+          "matches": [
+            {
+              "id": 1,
+              "played": false,
+              "date": "2019-12-12",
+              "time": "18:00",
+              "has_agreement": true,
+              "away": {
+                "id": 1,
+                "name": "Los Cocos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              },
+              "local": {
+                "id": 2,
+                "name": "Los Conejos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              }
+            }
+          ]
         }
       ]
     }
