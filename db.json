@@ -218,11 +218,65 @@
       "score": "5",
       "players": [
         {
+          "id": 1,
+          "name": "Juan",
+          "last_name": "Cebolla",
+          "position": "Delantero",
+          "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 2,
+          "name": "Pedro",
+          "last_name": "Zanahoria",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
           "id": 3,
           "name": "Daniel",
           "last_name": "Cilantro",
           "position": "Delantero",
           "shirt_number": 1,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
+          "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
+          "is_present": true
+        },
+        {
+          "id": 4,
+          "name": "Alfredo",
+          "last_name": "Epazote",
+          "position": "Portero",
+          "shirt_number": 2,
           "image": "http://p.imgci.com/db/PICTURES/CMS/112800/112859.jpg",
           "is_present": true
         },
