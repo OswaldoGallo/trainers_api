@@ -21,36 +21,95 @@
       }
     ]
   },
-  "positions_table": [
-    {
+  "arbitration_card": {
+    "id": 1,
+    "has_referee_evaluation": true,
+    "referee": "Joselote Perez",
+    "away": {
       "id": 1,
       "name": "Los Cocos",
       "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
-      "played_games": 2,
-      "points": 6
+      "score": {
+        "points": "1",
+        "has_penalties": true,
+        "penalties_score": "5",
+        "goals": [
+          {
+            "player": "Joselito Gomez",
+            "time": "80"
+          }
+        ]
+      },
+      "actions": {
+        "substitutions": [
+          {
+            "in_player": "Joselito Gomez",
+            "out_player": "Pedrito Rámirez"
+          }
+        ],
+        "cards": [
+          {
+            "type": "red",
+            "player": "Joselito Gutierrez"
+          }
+        ]
+      },
+      "incidents": [
+        {
+          "type": "player",
+          "regulation": "Actitud Antideportiva",
+          "subregulation": "Pelea en el campo",
+          "infractor": "Joselito Martinez"
+        }
+      ]
     },
-    {
+    "local": {
       "id": 2,
-      "name": "Los Canayas",
-      "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png",
-      "played_games": 2,
-      "points": 3
-    },
-    {
-      "id": 3,
-      "name": "Los Endebles",
-      "image": "http://content.sportslogos.net/slnet-505x505trans.png",
-      "played_games": 2,
-      "points": 0
-    },
-    {
-      "id": 4,
       "name": "Los Conejos",
       "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
-      "played_games": 2,
-      "points": 0
+      "score": {
+        "points": "1",
+        "has_penalties": true,
+        "penalties_score": "5",
+        "goals": [
+          {
+            "player": "Joselito Gomez",
+            "time": "80"
+          }
+        ]
+      },
+      "actions": {
+        "substitutions": [
+          {
+            "in_player": "Joselito Gomez",
+            "out_player": "Pedrito Rámirez"
+          }
+        ],
+        "cards": [
+          {
+            "type": "red",
+            "player": "Joselito Gutierrez"
+          }
+        ]
+      },
+      "incidents": [
+        {
+          "type": "player",
+          "regulation": "Actitud Antideportiva",
+          "subregulation": "Pelea en el campo",
+          "infractor": "Joselito Martinez"
+        }
+      ]
+    },
+    "referee_evaluation": {
+      "puntuality": 5,
+      "uniform": 4,
+      "arbitration_criterion": 5,
+      "cordiality": 5,
+      "regulation_knowledge": 5,
+      "physical_performance": 5
     }
-  ],
+  },
   "match_history": [
     {
       "id": 1,
