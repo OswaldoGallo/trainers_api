@@ -23,8 +23,9 @@
   },
   "arbitration_card": {
     "id": 1,
+    "match_id": 1,
     "has_referee_evaluation": true,
-    "referee": "Joselote Perez",
+    "referee_name": "Joselote Perez",
     "away": {
       "id": 1,
       "name": "Los Cocos",
