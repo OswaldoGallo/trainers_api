@@ -41,27 +41,27 @@
         "has_penalties": true,
         "penalties_score": "5",
         "goals": [
-          "74´ Joselito Perez 10"
+          "El Cocos"
         ]
       },
       "substitutions": [
         {
-          "in_player": "Joselito Gomez",
-          "out_player": "Pedrito Rámirez"
+          "in_player": "Joselito El Cocos",
+          "out_player": "Pedrito El Cocos"
         }
       ],
       "cards": [
         {
           "type": "red",
-          "player": "Joselito Gutierrez"
+          "player": "Joselito El Cocos"
         }
       ],
       "incidents": [
         {
           "type": "player",
-          "regulation": "Actitud Antideportiva",
-          "subregulation": "Pelea en el campo",
-          "infractor": "Joselito Martinez"
+          "regulation": "R1",
+          "subregulation": "I2",
+          "infractor": "Joselito El Cocos"
         }
       ]
     },
