@@ -55,10 +55,6 @@
         {
           "type": "yellow",
           "player": "Gerardo Ramirez"
-        },
-        {
-          "type": "red",
-          "player": "Gerardo Ramirez"
         }
       ],
       "incidents": [
@@ -94,8 +90,8 @@
         {
           "type": "trainer",
           "regulation": "Regla: 3",
-          "subregulation": "Inciso: 2",
-          "infractor": "Pele Samperio"
+          "subregulation": "Inciso: 3",
+          "infractor": "Joselito Martinez"
         }
       ]
     },
