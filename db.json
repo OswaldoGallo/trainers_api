@@ -40,7 +40,10 @@
         "points": "2",
         "has_penalties": true,
         "penalties_score": "5",
-        "goals": []
+        "goals": [
+          "22' Samuel Pérez 10",
+          "35' Javier Hernández 15"
+        ]
       },
       "substitutions": [
         {
@@ -60,10 +63,10 @@
       ],
       "incidents": [
         {
-          "type": "team",
+          "type": "player",
           "regulation": "Regla: 1",
           "subregulation": "Inciso: 2",
-          "infractor": "Los Conejos F.C."
+          "infractor": "Gerardo Ramirez"
         }
       ]
     },
