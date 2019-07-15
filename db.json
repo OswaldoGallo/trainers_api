@@ -103,7 +103,7 @@
       "incidents": []
     },
     "referee_evaluation": {
-
+      "punctuality": 5,
       "uniform": 4,
       "arbitration_criterion": 5,
       "cordiality": 4,
