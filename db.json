@@ -55,14 +55,18 @@
         {
           "type": "yellow",
           "player": "Gerardo Ramirez"
+        },
+        {
+          "type": "red",
+          "player": "Gerardo Ramirez"
         }
       ],
       "incidents": [
         {
-          "type": "player",
+          "type": "team",
           "regulation": "Regla: 1",
           "subregulation": "Inciso: 2",
-          "infractor": "Gerardo Ramirez"
+          "infractor": "Los Conejos F.C."
         }
       ]
     },
@@ -86,14 +90,7 @@
           "player": "Kevin Martinez"
         }
       ],
-      "incidents": [
-        {
-          "type": "trainer",
-          "regulation": "Regla: 3",
-          "subregulation": "Inciso: 2",
-          "infractor": "Pele Samperio"
-        }
-      ]
+      "incidents": []
     },
     "referee_evaluation": {
       "punctuality": 5,
