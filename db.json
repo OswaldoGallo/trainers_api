@@ -68,34 +68,30 @@
     },
     "local": {
       "id": 2,
-      "name": "Los Conejos",
-      "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
+      "name": "Los Saltamontes",
+      "image": "http://www.quecomenn.com/wp-content/uploads/2019/02/saltamontes.jpeg",
       "score": {
-        "points": "1",
+        "points": "2",
         "has_penalties": true,
-        "penalties_score": "5",
+        "penalties_score": "4",
         "goals": [
-          "74´ Joselito Perez 10"
+          "74´ Jean Carlo López 10",
+          "90´ Goku Mejía 13"
         ]
       },
-      "substitutions": [
-        {
-          "in_player": "Joselito Gomez",
-          "out_player": "Pedrito Rámirez"
-        }
-      ],
+      "substitutions": [],
       "cards": [
         {
           "type": "red",
-          "player": "Joselito Gutierrez"
+          "player": "Kevin Martinez"
         }
       ],
       "incidents": [
         {
-          "type": "player",
-          "regulation": "Actitud Antideportiva",
-          "subregulation": "Pelea en el campo",
-          "infractor": "Joselito Martinez"
+          "type": "trainer",
+          "regulation": "Regla: 3",
+          "subregulation": "Inciso: 2",
+          "infractor": "Pele Samperio"
         }
       ]
     },
