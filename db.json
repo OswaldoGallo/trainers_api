@@ -28,75 +28,45 @@
     ]
   },
   "arbitration_card": {
-    "id": 1,
-    "match_id": 1,
-    "has_referee_evaluation": true,
-    "referee_name": "Joselote Perez",
+    "id": 0,
+    "match_id": 0,
+    "has_referee_evaluation": false,
+    "referee_name": "",
     "away": {
-      "id": 1,
-      "name": "Los Conejos F.C.",
-      "image": "https://t2.ea.ltmcdn.com/es/images/0/7/1/img_cuidados_del_conejo_3170_600.jpg",
+      "id": 0,
+      "name": "",
+      "image": "",
       "score": {
-        "points": "2",
-        "has_penalties": true,
-        "penalties_score": "5",
-        "goals": [
-          "22' Samuel Pérez 10",
-          "35' Javier Hernández 15"
-        ]
-      },
-      "substitutions": [
-        {
-          "in_player": "Samuel Pérez",
-          "out_player": "Pedro Sola"
-        }
-      ],
-      "cards": [
-        {
-          "type": "yellow",
-          "player": "Gerardo Ramirez"
-        }
-      ],
-      "incidents": [
-        {
-          "type": "player",
-          "regulation": "Regla: 1",
-          "subregulation": "Inciso: 2",
-          "infractor": "Gerardo Ramirez"
-        }
-      ]
-    },
-    "local": {
-      "id": 2,
-      "name": "Los Saltamontes",
-      "image": "http://www.quecomenn.com/wp-content/uploads/2019/02/saltamontes.jpeg",
-      "score": {
-        "points": "2",
-        "has_penalties": true,
-        "penalties_score": "4",
-        "goals": [
-          "74´ Jean Carlo López 10",
-          "90´ Goku Mejía 13"
-        ]
+        "points": "",
+        "has_penalties": false,
+        "penalties_score": "",
+        "goals": []
       },
       "substitutions": [],
       "cards": [],
-      "incidents": [
-        {
-          "type": "trainer",
-          "regulation": "Regla: 3",
-          "subregulation": "Inciso: 3",
-          "infractor": "Joselito Martinez"
-        }
-      ]
+      "incidents": []
+    },
+    "local": {
+      "id": 0,
+      "name": "",
+      "image": "",
+      "score": {
+        "points": "",
+        "has_penalties": false,
+        "penalties_score": "",
+        "goals": []
+      },
+      "substitutions": [],
+      "cards": [],
+      "incidents": []
     },
     "referee_evaluation": {
-      "punctuality": 5,
-      "uniform": 4,
-      "arbitration_criterion": 5,
-      "cordiality": 5,
-      "regulation_knowledge": 5,
-      "physical_performance": 5
+      "punctuality": 0,
+      "uniform": 0,
+      "arbitration_criterion": 0,
+      "cordiality": 0,
+      "regulation_knowledge": 0,
+      "physical_performance": 0
     }
   },
   "match_history": [
