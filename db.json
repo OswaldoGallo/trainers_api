@@ -90,7 +90,14 @@
           "player": "Kevin Martinez"
         }
       ],
-      "incidents": []
+      "incidents": [
+        {
+          "type": "trainer",
+          "regulation": "Regla: 3",
+          "subregulation": "Inciso: 2",
+          "infractor": "Pele Samperio"
+        }
+      ]
     },
     "referee_evaluation": {
       "punctuality": 5,
