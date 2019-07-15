@@ -29,87 +29,82 @@
   },
   "arbitration_card": {
     "id": 1,
+    "match_id": 1,
     "has_referee_evaluation": true,
-    "referee_name": "Andrés Hernándex",
+    "referee_name": "Joselote Perez",
     "away": {
       "id": 1,
-      "name": "Los Conejos F.C,",
+      "name": "Los Cocos",
       "image": "https://gamepedia.cursecdn.com/dota2_gamepedia/thumb/4/4d/Team_logo_Team_Spirit.png/256px-Team_logo_Team_Spirit.png?version=4552bbb14baa68c9ab2e9f354a05df32",
       "score": {
-        "points": "2",
+        "points": "1",
         "has_penalties": true,
         "penalties_score": "5",
         "goals": [
-          "74' Manuel Arreaga 15",
-          "34' José Fernandez 12"
+          "El Cocos"
         ]
       },
       "substitutions": [
         {
-          "in_player": "Gerardo Pérez",
-          "out_player": "Oswaldo Gallo"
+          "in_player": "Joselito El Cocos",
+          "out_player": "Pedrito El Cocos"
         }
       ],
       "cards": [
         {
-          "type": "yellow",
-          "player": "Oswaldo Gallo"
-        },
-        {
           "type": "red",
-          "player": "Samuel Villegas"
+          "player": "Joselito El Cocos"
         }
       ],
       "incidents": [
         {
           "type": "player",
-          "regulation": "Regla: 1",
-          "subregulation": "Indice: 2",
-          "infractor": "Samuel Villegas"
-        },
-        {
-          "type": "trainer",
-          "regulation": "Regla: 3",
-          "subregulation": "Indice: 2",
-          "infractor": "Samuel Villegas"
+          "regulation": "R1",
+          "subregulation": "I2",
+          "infractor": "Joselito El Cocos"
         }
       ]
     },
     "local": {
       "id": 2,
-      "name": "Los Colegas Mix",
+      "name": "Los Conejos",
       "image": "https://teamriverside.eu/wp-content/uploads/2017/09/Logo-png.png",
       "score": {
-        "points": "2",
+        "points": "1",
         "has_penalties": true,
-        "penalties_score": "4",
+        "penalties_score": "5",
         "goals": [
-          "22´ Manuel Gonzalez 10",
-          "60´ Jonas Perez 10"
+          "74´ Joselito Perez 10"
         ]
       },
       "substitutions": [
         {
-          "in_player": "10 Manuel Gonzalez",
-          "out_player": "15 Pedro Rámirez"
+          "in_player": "Joselito Gomez",
+          "out_player": "Pedrito Rámirez"
         }
       ],
       "cards": [
         {
-          "type": "yellow",
-          "player": "Pedro Rámirez"
+          "type": "red",
+          "player": "Joselito Gutierrez"
         }
       ],
-      "incidents": []
+      "incidents": [
+        {
+          "type": "player",
+          "regulation": "Actitud Antideportiva",
+          "subregulation": "Pelea en el campo",
+          "infractor": "Joselito Martinez"
+        }
+      ]
     },
     "referee_evaluation": {
-
-      "punctuality": 3,
+      "punctuality": 5,
       "uniform": 4,
       "arbitration_criterion": 5,
-      "cordiality": 4,
+      "cordiality": 5,
       "regulation_knowledge": 5,
-      "physical_performance": 3
+      "physical_performance": 5
     }
   },
   "match_history": [
