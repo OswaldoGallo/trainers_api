@@ -84,12 +84,7 @@
         ]
       },
       "substitutions": [],
-      "cards": [
-        {
-          "type": "red",
-          "player": "Kevin Martinez"
-        }
-      ],
+      "cards": [],
       "incidents": [
         {
           "type": "trainer",
