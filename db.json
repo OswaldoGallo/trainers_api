@@ -40,10 +40,7 @@
         "points": "2",
         "has_penalties": true,
         "penalties_score": "5",
-        "goals": [
-          "22' Samuel Pérez 10",
-          "35' Javier Hernández 15"
-        ]
+        "goals": []
       },
       "substitutions": [
         {
@@ -84,7 +81,12 @@
         ]
       },
       "substitutions": [],
-      "cards": [],
+      "cards": [
+        {
+          "type": "red",
+          "player": "Kevin Martinez"
+        }
+      ],
       "incidents": [
         {
           "type": "trainer",
