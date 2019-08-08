@@ -152,17 +152,17 @@
   ],
   "categories": [
     {
-      "name": "Categoría 2001",
+      "generation": "Categoría 2001",
       "rounds": [
         {
-          "number": "Jornada 1",
+          "round": "Jornada 1",
           "date": "2019-12-12",
           "matches": [
             {
               "id": 1,
               "played": false,
-              "date": "2019-12-12",
-              "time": "18:00",
+              "play_date": "2019-12-12",
+              "play_time": "18:00",
               "has_agreement": true,
               "away": {
                 "id": 1,
