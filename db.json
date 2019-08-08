@@ -79,7 +79,12 @@
           "90´ Goku Mejía 13"
         ]
       },
-      "substitutions": [],
+      "substitutions": [
+        {
+          "in_player": "Samuel Pérez",
+          "out_player": "Pedro Sola"
+        }
+      ],
       "cards": [],
       "incidents": [
         {
