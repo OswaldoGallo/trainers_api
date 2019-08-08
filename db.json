@@ -163,7 +163,7 @@
               "played": false,
               "play_date": "2019-12-12",
               "play_time": "18:00",
-              "has_agreement": true,
+              "has_agreement": "selected",
               "away": {
                 "id": 1,
                 "name": "Los Cocos",
@@ -180,7 +180,7 @@
               "played": false,
               "play_date": "",
               "play_time": "",
-              "has_agreement": false,
+              "has_agreement": "non_created",
               "away": {
                 "id": 3,
                 "name": "Los Sapos",
@@ -191,6 +191,23 @@
                 "name": "Los Altruistas",
                 "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
               }
+            },
+            {
+              "id": 3,
+              "played": false,
+              "play_date": "",
+              "play_time": "",
+              "has_agreement": "pending",
+              "away": {
+                "id": 5,
+                "name": "Los Huercos",
+                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+              },
+              "local": {
+                "id": 6,
+                "name": "Los Casimiros",
+                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
+              }
             }
           ]
         }
@@ -199,8 +216,8 @@
   ],
   "match": {
     "id": 1,
-    "date": "2019-12-12",
-    "time": "18:00",
+    "play_date": "2019-12-12",
+    "play_time": "18:00",
     "field": "Estadio Revolución",
     "field_address": "Av. Siempre Viva",
     "played": true,
