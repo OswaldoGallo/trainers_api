@@ -172,35 +172,24 @@
               "local": {
                 "id": 2,
                 "name": "Los Conejos",
-                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
               }
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Categoría 2003",
-      "rounds": [
-        {
-          "number": "Jornada 2",
-          "date": "2019-12-12",
-          "matches": [
+            },
             {
-              "id": 1,
+              "id": 2,
               "played": false,
-              "date": "2019-12-12",
-              "time": "18:00",
-              "has_agreement": true,
+              "play_date": "",
+              "play_time": "",
+              "has_agreement": false,
               "away": {
-                "id": 1,
-                "name": "Los Cocos",
+                "id": 3,
+                "name": "Los Sapos",
                 "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
               },
               "local": {
-                "id": 2,
-                "name": "Los Conejos",
-                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
+                "id": 4,
+                "name": "Los Altruistas",
+                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
               }
             }
           ]
