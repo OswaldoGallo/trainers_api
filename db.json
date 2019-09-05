@@ -91,68 +91,21 @@
       }
     }
   ],
-  "categories": [
+  "fields": [
     {
-      "generation": "Categoría 2001",
-      "rounds": [
-        {
-          "round": "Jornada 1",
-          "date": "2019-12-12",
-          "matches": [
-            {
-              "id": 1,
-              "played": false,
-              "play_date": "2019-12-12",
-              "play_time": "18:00",
-              "has_agreement": "selected",
-              "away": {
-                "id": 1,
-                "name": "Los Cocos",
-                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-              },
-              "local": {
-                "id": 2,
-                "name": "Los Conejos",
-                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
-              }
-            },
-            {
-              "id": 2,
-              "played": false,
-              "play_date": "",
-              "play_time": "",
-              "has_agreement": "non_created",
-              "away": {
-                "id": 3,
-                "name": "Los Sapos",
-                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-              },
-              "local": {
-                "id": 4,
-                "name": "Los Altruistas",
-                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
-              }
-            },
-            {
-              "id": 3,
-              "played": false,
-              "play_date": "",
-              "play_time": "",
-              "has_agreement": "pending",
-              "away": {
-                "id": 5,
-                "name": "Los Huercos",
-                "image": "http://loodibee.com/wp-content/uploads/nfl-arizona-cardinals-team-logo-2-300x300.png"
-              },
-              "local": {
-                "id": 6,
-                "name": "Los Casimiros",
-                "image": "https://image.shutterstock.com/image-vector/modern-professional-vector-dream-team-260nw-270996839.jpg"
-              }
-            }
-          ]
-        }
-      ]
+      "id": 1,
+      "field": "Estadio A",
+      "field_address": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "field": "Estadio B",
+      "field_address": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "field": "Estadio C",
+      "field_address": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     }
   ],
   "match": {
