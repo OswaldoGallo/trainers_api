@@ -63,8 +63,8 @@
     "substitutions": [
       {
         "team_id": 1,
-        "in_player": "Samuel Pérez",
-        "out_player": "Pedro Sola"
+        "player_in": "Samuel Pérez",
+        "player_out": "Pedro Sola"
       }
     ],
     "cards": [
@@ -80,7 +80,7 @@
         "type": "player",
         "regulation": "Regla: 1",
         "subregulation": "Inciso: 2",
-        "offenser": "Gerardo Ramirez"
+        "offender": "Gerardo Ramirez"
       }
     ],
     "referee_evaluation": {
