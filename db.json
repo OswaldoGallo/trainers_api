@@ -65,6 +65,21 @@
         "team_id": 1,
         "player_in": "Samuel Pérez",
         "player_out": "Pedro Sola"
+      },
+      {
+        "team_id": 1,
+        "player_in": "Conejo Pérez",
+        "player_out": "Javier Sola"
+      },
+      {
+        "team_id": 2,
+        "player_in": "Concho Pérez",
+        "player_out": "Pablo Sola"
+      },
+      {
+        "team_id": 2,
+        "player_in": "Solomillo Pérez",
+        "player_out": "Arcel Sola"
       }
     ],
     "cards": [
@@ -72,6 +87,16 @@
         "team_id": 1,
         "type": "yellow",
         "offender": "Gerardo Ramirez"
+      },
+      {
+        "team_id": 2,
+        "type": "red",
+        "offender": "Gerardo Pepe"
+      },
+      {
+        "team_id": 2,
+        "type": "yellow",
+        "offender": "Gerardo Cono"
       }
     ],
     "incidents": [
@@ -81,6 +106,13 @@
         "regulation": "Regla: 1",
         "subregulation": "Inciso: 2",
         "offender": "Gerardo Ramirez"
+      },
+      {
+        "team_id": 2,
+        "type": "player",
+        "regulation": "Regla: 3",
+        "subregulation": "Inciso: 4",
+        "offender": "Gerardo Concho"
       }
     ],
     "referee_evaluation": {
